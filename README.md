@@ -6,6 +6,8 @@
 ![image](https://user-images.githubusercontent.com/71545160/118096818-d456d600-b40c-11eb-9eaa-3bb6289c0cc4.png)
 
 ## Classification_Confusion_Matrix.py
+![image](https://user-images.githubusercontent.com/71545160/118097809-1df3f080-b40e-11eb-9135-373118c9a52e.png)
+
 ![image](https://user-images.githubusercontent.com/71545160/118096889-ec2e5a00-b40c-11eb-8aa7-561552686f2a.png)
 
 ## AUROC_without_ODIN_temp_scaling.py

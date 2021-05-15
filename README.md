@@ -1,6 +1,8 @@
 # Keras-1D-ODIN-Temperature-Scaling
 * **Original Idea Paper([Link](https://arxiv.org/abs/1706.02690))** : “Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks”, 2018 ICLR
 
+* **Reference Keras Code([Link](https://github.com/RRoundTable/ODIN_keras_version) by Wontak Ryu)
+
 * **Related Paper(my paper)** : “Fault Diagnosis of Inverter Current Sensor Using Artificial Neural Network Considering Out-of-distribution”, 2021 IEEE Energy Conversion Congress and Exposition-Asia(ECCE-Asia), Singapore, May 24-27, 2021   (Accepted, 1st author, To be published)
 
 ## Training_with_iteration.py
